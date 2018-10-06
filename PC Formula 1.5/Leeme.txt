@@ -1,0 +1,39 @@
+***************** PC Fórmula 1.5 ********************
+
+PARA INSTALAR EL PROGRAMA, SIMPLEMENTE PONGA LOS
+SIGUIENTES ARCHIVOS EN UNA CARPETA Y EJECUTE EL
+ARCHIVO Pc Formula 1.5 (Puede crear un acceso
+directo al escritorio o donde le parezca)
+
+Archivos que lo componen;
+PCFormula1.5.exe  (el programa)
+Masas.txt         (los datos de pesos atomicos)
+prefs.dat         (archivo preferencias)
+Leeme.txt         (este archivo)
+
+El programa es autoexplicativo en casi todas
+sus funciones, no obstante se hacen las 
+siguientes aclaraciones:
+Las pesos moleculares se calculan en base a
+los datos introducidos en Masas.txt, por 
+tanto no es recomendable editar este archivo
+El programa reconoce sólo elementos del sistema
+periodico (no abreviaturas de formula), por tanto 
+hay que introducir formulas empíricas puras.
+Ejemplos:
+
+C23H56O2S3Hg   (entrada correcta)
+C23H23(H2O)5   (incorrecta, no se permiten parentesis)
+C23H33O5       (la formula anterior pero correcta)
+AcOH           (incorrecta, Ac es una abreviatura conocida
+                pero no es un elemento)
+
+Pulsando con el botón derecho del mouse sobre el 
+cuadro de resumen, se despliega un menu contextual
+para borrar dicho cuadro de resumen o para 
+imprimirlo.
+
+Para cualquier consulta o aclaración escriba a:
+ARVSoft@teleline.es 
+
+(English version available)
