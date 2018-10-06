@@ -1,0 +1,125 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Excel=No
+Text=No
+Jet 2.x=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=Yes
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+E:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+E:\WINNT\system32\MSRDO20.DLL=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\Proyecto.exe=Yes
+E:\WINNT\system32\MSVBVM60.DLL=Yes
+E:\WINNT\system32\OLEAUT32.DLL=Yes
+E:\WINNT\system32\OLEPRO32.DLL=Yes
+E:\WINNT\system32\ASYCFILT.DLL=Yes
+E:\WINNT\system32\STDOLE2.TLB=Yes
+F:\Programacion\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\UtilsDll.dll=Yes
+E:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+E:\WINNT\system32\MSJET35.DLL=Yes
+E:\WINNT\system32\MSJTER35.DLL=Yes
+E:\WINNT\system32\MSJINT35.DLL=Yes
+E:\WINNT\system32\vbajet32.dll=Yes
+E:\WINNT\system32\expsrv.dll=Yes
+E:\WINNT\system32\MSRD2X35.DLL=Yes
+E:\WINNT\system32\MSREPL35.DLL=Yes
+F:\Programacion\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+E:\WINNT\system32\VB5DB.DLL=Yes
+E:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=Yes
+E:\WINNT\system32\MSRDO20.DLL=Yes
+E:\WINNT\system32\RDOCURS.DLL=Yes
+F:\Programacion\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+F:\Programacion\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Programacion\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+E:\WINNT\system32\VB6STKIT.DLL=Yes
+F:\Programacion\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\Proyecto.exe=$(AppPath)
+E:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+E:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+E:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+E:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+E:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+F:\Programacion\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\UtilsDll.dll=$(AppPath)
+E:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+E:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+E:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+E:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+E:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+E:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+E:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+E:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+F:\Programacion\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+E:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+E:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=$(WinSysPath)
+E:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+E:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+F:\Programacion\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+F:\Programacion\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Programacion\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+E:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Programacion\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\Proyecto.exe=No
+G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\UtilsDll.dll=No
+F:\Programacion\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=proyecto
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=proyecto
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|proyecto]
+Icon1=Proyecto.exe
+Title1=proyecto
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\Package
+ProjectFolder=G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar
+ServerSideCab=
+File1=G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\Package\setup.exe
+File2=G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\Package\Setup.Lst
+File3=G:\Desarrollo\Visual Basic\Desreplicacion\proyecto\Pharmamar\Package\Proyecto.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

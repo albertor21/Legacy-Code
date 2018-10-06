@@ -1,0 +1,5 @@
+en la tabla HPLCMS_ADMIN_HPLC:
+
+El campo ALG_BIN_MASS tiene que ser float
+Los campos con tipo DAte tienen que ser varchar 
+El campo NAME tiene que ser un Varchar mas largo, varchar(50) es ok
